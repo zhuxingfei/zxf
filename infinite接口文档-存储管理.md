@@ -71,10 +71,14 @@
 
 | 业务码 | 说明 | 备注 |
 | -------- | -------- | ----- |
-|General.Success|接口调用成功||
-|General.Failure|接口调用失败||
-|General.InternalServerError|服务器异常||
-|General.RpcServerError|Rpc服务异常||
+|General.Success
+|接口调用成功||
+|General.Failure
+|接口调用失败||
+|General.InternalServerError
+|服务器异常||
+|General.RpcServerError
+|Rpc服务异常||
 |General.TokenExpired|账户Token已超时||
 |General.TokenInvalid|账户Token无效||
 |General.Unauthorized|请求未授权||
